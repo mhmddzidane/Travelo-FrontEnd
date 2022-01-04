@@ -24,7 +24,7 @@ const PromoCard = () => {
                     <p className="text-heading-5 text-gray-70 mb-4">Untuk 2 orang, tiket pesawat, tempat penginapan 5 malam, tour guide. mak...</p>
                     <p className="text-heading-5 text-gray-50 mb-4">Berangkat 12-12-2021 07:00</p>
                     <div className="flex justify-between gap-3">
-                        <Buttons fullWidth outLined>Lihat Detail</Buttons>
+                        <Buttons fullWidth outLined className="text-sm">Lihat Detail</Buttons>
                         <Buttons fullWidth >Pesan</Buttons>
                     </div>
                 </div>

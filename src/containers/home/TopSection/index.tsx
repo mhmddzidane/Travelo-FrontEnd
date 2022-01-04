@@ -16,7 +16,7 @@ const TopSection = () => {
                             Jelajahi dunia yang indah dengan satu sentuhan dengan pesan tiket di Travelo kamu akan dapatkan
                             pelayanan terbaik untuk wisata liburanmu dimana saja dan kapan saja
                         </p>
-                        <Buttons>Lihat Paket</Buttons>
+                        <Buttons className='w-[190px]'>Lihat Paket</Buttons>
                     </div>
                     <div className='flex gap-40 mx-auto pt-8'>
                         <InfoItem
